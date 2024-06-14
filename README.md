@@ -10,6 +10,7 @@ A collection of Awesome resources for scientific publisher book.
 - World Scientific
 - Dover Books
 - John & Wiley
+- MIR Publisher
 - Routledge Francis And Taylor Group
 - O'Reilly
 - Packt
