@@ -1,4 +1,4 @@
-# Awesome Scientific Publisher Books
+# 📚 Awesome Scientific Publisher Books
 A collection of Awesome resources for scientific publisher book.
 <br> for who looking coder  applied in Computer Science, Mathematics, Physic, Chemical, Bioinformatics, Engineering etc...
 ## List of Publishers
