@@ -4,13 +4,13 @@ A collection of Awesome resources for scientific publisher book.
 ## List of Publishers
 
 - ARTECHHOUSE
+- MIR Publisher
 - Springer
 - CRC Press
 - McGraw Hill
 - World Scientific
 - Dover Books
 - John & Wiley
-- MIR Publisher
 - Routledge Francis And Taylor Group
 - O'Reilly
 - Packt
