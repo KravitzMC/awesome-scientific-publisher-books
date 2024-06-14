@@ -1,6 +1,6 @@
 # Awesome Scientific Publisher Books
 A collection of Awesome resources for scientific publisher book.
-<br> for who looking Applied in Programing and  Computer Science, Mathematics, Physic, Chemical, Bioinformatics, Engineering etc...
+<br> for who looking Programing applied in Computer Science, Mathematics, Physic, Chemical, Bioinformatics, Engineering etc...
 ## List of Publishers
 
 - ARTECHHOUSE
