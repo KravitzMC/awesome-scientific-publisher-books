@@ -15,6 +15,7 @@ A collection of Awesome resources for scientific publisher book.
 - O'Reilly
 - Packt
 - Apress
+- MIT University Press
 - Oxford University Press
 - Cambridge University Press
 - Elsevier Press
