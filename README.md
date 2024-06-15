@@ -17,6 +17,7 @@ A collection of Awesome resources for scientific publisher book.
 - [O'Reilly](https://www.oreilly.com)
 - [Packt](https://www.packtpub.com)
 - [Apress](https://www.apress.com)
+- [Manning](https://www.manning.com)
 - [MIT University Press](https://mitpress.mit.edu/textbooks)
 - [Oxford University Press](https://global.oup.com/academic)
 - [Cambridge University Press](https://www.cambridge.org/core/publications/textbooks)
