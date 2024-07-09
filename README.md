@@ -7,6 +7,7 @@ A collection of Awesome resources for scientific publisher book.
 ## List of Publishers
 
 - [ARTECHHOUSE](https://us.artechhouse.com)
+- [AIAA](https://www.aiaa.org/publications)
 - [MIR Publisher](https://mirtitles.org)
 - [Springer](https://www.springer.com)
 - [CRC Press](https://www.routledge.com)
