@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/KravitzMC/awesome-scientific-publisher-books) 
 
 
-<img src="https://raw.githubusercontent.com/KravitzMC/awesome-scientific-publisher-books/main/library11.jpg" width="600" height="180" align="center">
+<img src="https://raw.githubusercontent.com/KravitzMC/awesome-scientific-publisher-books/main/library11.jpg" width="300" height="100" align="right">
  
 
 A collection of Awesome resources for scientific publisher book.
