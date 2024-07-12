@@ -4,10 +4,10 @@
 
 
 <img src="https://raw.githubusercontent.com/KravitzMC/awesome-scientific-publisher-books/main/library11.jpg" width="200" height="80" align="right">
- 
 
-A collection of Awesome resources for scientific publisher book.
-<br> for who looking in Programing coder applied in Computer Science, Mathematics, Physic, Chemical, Bioinformatics, Electronic, Engineering or related field etc...
+collection of Awesome resources for scientific publisher book.
+<br> for who looking in programing in Computer Science, Mathematics, Physic, Chemical, Bioinformatics, Electronic, Engineering or related field etc...
+
 ## List of Publishers
 
 - [ARTECHHOUSE](https://us.artechhouse.com)
