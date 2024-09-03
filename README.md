@@ -15,6 +15,7 @@ collection of Awesome resources for scientific publisher book.
 - [MIR Publisher](https://mirtitles.org)
 - [Springer](https://www.springer.com)
 - [CRC Press](https://www.routledge.com)
+- [Elsevier Press](https://www.elsevier.com/about/global-press-office)
 - [Dover Books](https://store.doverpublications.com/pages/math-science)
 - [McGraw Hill](https://www.mheducation.com)
 - [World Scientific](https://www.worldscientific.com)
@@ -26,4 +27,3 @@ collection of Awesome resources for scientific publisher book.
 - [MIT University Press](https://mitpress.mit.edu/textbooks)
 - [Oxford University Press](https://global.oup.com/academic)
 - [Cambridge University Press](https://www.cambridge.org/core/publications/textbooks)
-- [Elsevier Press](https://www.elsevier.com/about/global-press-office)
