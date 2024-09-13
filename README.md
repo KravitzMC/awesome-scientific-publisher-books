@@ -20,6 +20,7 @@ collection of Awesome resources for scientific publisher book.
 - [Dover Books](https://store.doverpublications.com/pages/math-science)
 - [McGraw Hill](https://www.mheducation.com)
 - [John & Wiley](https://www.wiley.com)
+- [Dummies](https://www.dummies.com)
 - [O'Reilly](https://www.oreilly.com)
 - [Packt](https://www.packtpub.com)
 - [Apress](https://www.apress.com)
