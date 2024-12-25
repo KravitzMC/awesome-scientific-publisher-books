@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/KravitzMC/awesome-scientific-publisher-books/main/library11.jpg" width="200" height="80" align="right">
 
 A Collection of Awesome resources for scientific publisher books.
-<br> for who looking in programing in IT, Computer Science, Mathematics, Physic, Chemical, Bioinformatics, Electronic, Engineering or related field etc...
+<br> for who looking in programing in IT, Computer Science, Economic Mathematics, Physic, Chemical, Bioinformatics, Electronic, Engineering or related field etc...
 
 ## List of Publishers
 
