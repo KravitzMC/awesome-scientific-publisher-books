@@ -13,6 +13,7 @@ A Collection of Awesome resources for scientific publisher books.
 - [ARTECHHOUSE](https://us.artechhouse.com)
 - [AIAA](https://www.aiaa.org/publications)
 - [American Mathematical Society](https://bookstore.ams.org)
+- [BPB-Online](https://bpbonline.com)
 - [Springer](https://www.springer.com)
 - [CRC Press](https://www.routledge.com)
 - [Dover Books](https://store.doverpublications.com/pages/math-science)
