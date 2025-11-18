@@ -18,6 +18,7 @@ A Collection of Awesome resources for scientific publisher books.
 - [CRC Press](https://www.routledge.com)
 - [Dover Books](https://store.doverpublications.com/pages/math-science)
 - [LEANPUB](https://leanpub.com)
+- [IGI-Global](https://www.igi-global.com)
 - [MIR Publisher](https://mirtitles.org)
 - [Dummies](https://www.dummies.com)
 - [World Scientific](https://www.worldscientific.com)
