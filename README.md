@@ -17,6 +17,7 @@ A Collection of Awesome resources for scientific publisher books.
 - [Springer](https://www.springer.com)
 - [CRC Press](https://www.routledge.com)
 - [IGI-Global](https://www.igi-global.com)
+- [HARRIMAN-HOUSE](https://harriman-house.com)
 - [Dover Books](https://store.doverpublications.com/pages/math-science)
 - [LEANPUB](https://leanpub.com)
 - [MIR Publisher](https://mirtitles.org)
