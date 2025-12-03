@@ -16,6 +16,7 @@ A Collection of Awesome resources for scientific publisher books.
 📘 [BPB-Online](https://bpbonline.com) </br>
 📘 [Springer](https://www.springer.com)</br>
 📘 [CRC Press](https://www.routledge.com)</br>
+📘 [Nova Publishers](https://novapublishers.com)</br>
 📘 [World Scientific](https://www.worldscientific.com)</br>
 📘 [IGI-Global](https://www.igi-global.com)</br>
 📘 [HARRIMAN-HOUSE](https://harriman-house.com)</br>
