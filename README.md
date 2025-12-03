@@ -18,6 +18,8 @@ A Collection of Awesome resources for scientific publisher books.
 📘 [CRC Press](https://www.routledge.com)</br>
 📘 [Nova Publishers](https://novapublishers.com)</br>
 📘 [World Scientific](https://www.worldscientific.com)</br>
+📘 [McGraw Hill](https://www.mheducation.com)</br>
+📘 [John & Wiley](https://www.wiley.com)</br>
 📘 [IGI-Global](https://www.igi-global.com)</br>
 📘 [HARRIMAN-HOUSE](https://harriman-house.com)</br>
 📘 [Dover Books](https://store.doverpublications.com/pages/math-science)</br>
@@ -25,8 +27,6 @@ A Collection of Awesome resources for scientific publisher books.
 📘 [MIR Publisher](https://mirtitles.org)</br>
 📘 [Dummies](https://www.dummies.com)</br>
 📘 [Elsevier Press](https://www.elsevier.com/about/global-press-office)</br>
-📘 [McGraw Hill](https://www.mheducation.com)</br>
-📘 [John & Wiley](https://www.wiley.com)</br>
 📘 [O'Reilly](https://www.oreilly.com)</br>
 📘 [Packt](https://www.packtpub.com)</br>
 📘 [Apress](https://www.apress.com)</br>
