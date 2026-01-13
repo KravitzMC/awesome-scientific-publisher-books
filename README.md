@@ -10,27 +10,27 @@ A Collection of Awesome resources for scientific publisher books.
 
 ## List of Publishers
 
-📘 [ARTECHHOUSE](https://us.artechhouse.com) </br>
-📘 [AIAA](https://www.aiaa.org/publications) </br>
-📘 [American Mathematical Society](https://bookstore.ams.org) </br>
-📘 [BPB-Online](https://bpbonline.com) </br>
-📘 [Springer](https://www.springer.com)</br>
-📘 [CRC Press](https://www.routledge.com)</br>
-📘 [Nova Publishers](https://novapublishers.com)</br>
-📘 [World Scientific](https://www.worldscientific.com)</br>
-📘 [McGraw Hill](https://www.mheducation.com)</br>
-📘 [John & Wiley](https://www.wiley.com)</br>
-📘 [IGI-Global](https://www.igi-global.com)</br>
-📘 [HARRIMAN-HOUSE](https://harriman-house.com)</br>
-📘 [Dover Books](https://store.doverpublications.com/pages/math-science)</br>
-📘 [LEANPUB](https://leanpub.com)</br>
-📘 [MIR Publisher](https://mirtitles.org)</br>
-📘 [Dummies](https://www.dummies.com)</br>
-📘 [Elsevier Press](https://www.elsevier.com/about/global-press-office)</br>
-📘 [O'Reilly](https://www.oreilly.com)</br>
-📘 [Packt](https://www.packtpub.com)</br>
-📘 [Apress](https://www.apress.com)</br>
-📘 [Manning](https://www.manning.com)</br>
-📘 [MIT University Press](https://mitpress.mit.edu/textbooks)</br>
-📘 [Oxford University Press](https://global.oup.com/academic)</br>
-📘 [Cambridge University Press](https://www.cambridge.org/core/publications/textbooks)
+⭐ [ARTECHHOUSE](https://us.artechhouse.com) </br>
+⭐ [AIAA](https://www.aiaa.org/publications) </br>
+⭐ [American Mathematical Society](https://bookstore.ams.org) </br>
+⭐ [BPB-Online](https://bpbonline.com) </br>
+⭐ [Springer](https://www.springer.com)</br>
+⭐ [CRC Press](https://www.routledge.com)</br>
+⭐ [Nova Publishers](https://novapublishers.com)</br>
+⭐ [World Scientific](https://www.worldscientific.com)</br>
+⭐ [McGraw Hill](https://www.mheducation.com)</br>
+⭐ [John & Wiley](https://www.wiley.com)</br>
+⭐ [IGI-Global](https://www.igi-global.com)</br>
+⭐ [HARRIMAN-HOUSE](https://harriman-house.com)</br>
+⭐ [Dover Books](https://store.doverpublications.com/pages/math-science)</br>
+⭐ [LEANPUB](https://leanpub.com)</br>
+⭐ [MIR Publisher](https://mirtitles.org)</br>
+⭐ [Dummies](https://www.dummies.com)</br>
+⭐ [Elsevier Press](https://www.elsevier.com/about/global-press-office)</br>
+⭐ [O'Reilly](https://www.oreilly.com)</br>
+⭐ [Packt](https://www.packtpub.com)</br>
+⭐ [Apress](https://www.apress.com)</br>
+⭐ [Manning](https://www.manning.com)</br>
+⭐ [MIT University Press](https://mitpress.mit.edu/textbooks)</br>
+⭐ [Oxford University Press](https://global.oup.com/academic)</br>
+⭐ [Cambridge University Press](https://www.cambridge.org/core/publications/textbooks)
