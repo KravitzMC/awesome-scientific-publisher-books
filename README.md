@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/KravitzMC/awesome-scientific-publisher-books/main/library11.jpg" width="200" height="80" align="right">
 
 A Collection of Awesome resources for publisher books.
-<br> for who looking in  Quantitative Financial, Economics, Computer Science,  Mathematics, Physic, Chemical, Bioinformatics, Electronic, Engineering or related field etc...
+<br> for who looking in  Quantitative Financial, Economics, Computer Science, Game Dev, Mathematics, Physic, Chemical, Bioinformatics, Electronic, Engineering or related field etc...
 
 ## List of Publishers
 
