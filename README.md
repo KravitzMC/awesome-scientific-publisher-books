@@ -13,6 +13,7 @@ A Collection of Awesome resources for publisher books.
 ⭐ [ARTECHHOUSE](https://us.artechhouse.com) </br>
 ⭐ [AIAA](https://www.aiaa.org/publications) </br>
 ⭐ [American Mathematical Society](https://bookstore.ams.org) </br>
+⭐ [Emerald](https://bookstore.emerald.com/) </br>
 ⭐ [BPB-Online](https://bpbonline.com) </br>
 ⭐ [Springer](https://www.springer.com)</br>
 ⭐ [CRC Press](https://www.routledge.com)</br>
